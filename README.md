@@ -34,7 +34,8 @@ double D =b*b - 4*a*c;
             System.out.println("Root: x = " + x);
         }
         else {
-                  System.out.println("Roots are imaginary:");     }
+                  System.out.println("Roots are imaginary:");
+               }
 
         sc.close();
     }
